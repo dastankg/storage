@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/dastankg/storage/internal/storage"
 	"log"
-	"storage/internal/storage"
 )
 
 func main() {
